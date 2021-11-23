@@ -9,6 +9,8 @@ bigimg: /img/start.jpg
 
 ![GW Data Science logo](/img/gwdsp.png)
 
+![Graphical Abstract](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7794601/bin/fx1_lrg.jpg)
+
 ## How about a link?
 
 And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
