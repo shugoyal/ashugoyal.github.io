@@ -8,13 +8,13 @@
 # *** If you're not sure what this means, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://kerchner.github.io/beautiful-project"
+url: "shugoyal.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
 
 # Name of website
-title: **COVID-19 Autopsies Proteomics Project**
+title: COVID-19 Autopsies Proteomics Project
 
 # Short description of your site
 description: Here's the new description of my project
