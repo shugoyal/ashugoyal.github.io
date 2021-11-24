@@ -2,7 +2,7 @@
 layout: page
 title: What is this research about?
 subtitle: Introduction of the paper
-bigimg: /img/graphicalAbstract.jpg
+cover-img: /img/graphicalAbstract.jpg
 ---
 
 ## INTRODUCTION
