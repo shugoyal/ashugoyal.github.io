@@ -8,7 +8,7 @@ subtitle: Introduction of the paper
 
 ## INTRODUCTION
 
-**Graphical Abstract** 
+**Graphical Abstract from Paper** 
 
 [![Abstract](/img/graphicalAbstract.jpg)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7794601/)
 
