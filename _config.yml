@@ -28,6 +28,7 @@ description: Here's the new description of my project
 # List of links in the navigation bar
 navbar-links:
   Home: ""
+  Introduction: "viz"
   Resources:
     - Getting started: "getstarted"
     - Other sites that use this template: "featured-users"
